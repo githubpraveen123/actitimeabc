@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[openBrowser]]>
+    </line>
+    <line>
+      <![CDATA[login]]>
+    </line>
+    <line>
+      <![CDATA[CreateProjetct]]>
+    </line>
+    <line>
+      <![CDATA[logout]]>
+    </line>
+    <line>
+      <![CDATA[login]]>
+    </line>
+    <line>
+      <![CDATA[deleteCustomer]]>
+    </line>
+    <line>
+      <![CDATA[logout]]>
+    </line>
+    <line>
+      <![CDATA[login]]>
+    </line>
+    <line>
+      <![CDATA[modifyProject]]>
+    </line>
+    <line>
+      <![CDATA[logout]]>
+    </line>
+    <line>
+      <![CDATA[closeBrowser]]>
+    </line>
+    <line>
+      <![CDATA[openBrowser]]>
+    </line>
+    <line>
+      <![CDATA[login]]>
+    </line>
+    <line>
+      <![CDATA[CreateTask]]>
+    </line>
+    <line>
+      <![CDATA[logout]]>
+    </line>
+    <line>
+      <![CDATA[login]]>
+    </line>
+    <line>
+      <![CDATA[DeleteTask]]>
+    </line>
+    <line>
+      <![CDATA[logout]]>
+    </line>
+    <line>
+      <![CDATA[login]]>
+    </line>
+    <line>
+      <![CDATA[ModifyTask]]>
+    </line>
+    <line>
+      <![CDATA[logout]]>
+    </line>
+    <line>
+      <![CDATA[closeBrowser]]>
+    </line>
+    <line>
+      <![CDATA[openBrowser]]>
+    </line>
+    <line>
+      <![CDATA[login]]>
+    </line>
+    <line>
+      <![CDATA[ModifyCustomer]]>
+    </line>
+    <line>
+      <![CDATA[logout]]>
+    </line>
+    <line>
+      <![CDATA[login]]>
+    </line>
+    <line>
+      <![CDATA[createCustemer]]>
+    </line>
+    <line>
+      <![CDATA[logout]]>
+    </line>
+    <line>
+      <![CDATA[login]]>
+    </line>
+    <line>
+      <![CDATA[deleteCustomer]]>
+    </line>
+    <line>
+      <![CDATA[logout]]>
+    </line>
+    <line>
+      <![CDATA[closeBrowser]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-09-21T15:52:47 IST" name="Suite" finished-at="2022-09-21T15:55:03 IST" duration-ms="136248">
+    <groups>
+    </groups>
+    <test started-at="2022-09-21T15:52:47 IST" name="Test" finished-at="2022-09-21T15:55:03 IST" duration-ms="136248">
+      <class name="TestNg.TastModule">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:TestNg.TastModule@28f2a10f]" started-at="2022-09-21T15:53:29 IST" name="openBrowser" finished-at="2022-09-21T15:53:54 IST" duration-ms="25159" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[openBrowser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:TestNg.TastModule@28f2a10f]" started-at="2022-09-21T15:53:54 IST" name="login" finished-at="2022-09-21T15:53:54 IST" duration-ms="461" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="CreateTask()[pri:0, instance:TestNg.TastModule@28f2a10f]" started-at="2022-09-21T15:53:54 IST" name="CreateTask" finished-at="2022-09-21T15:53:54 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[CreateTask]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CreateTask -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:TestNg.TastModule@28f2a10f]" started-at="2022-09-21T15:53:54 IST" name="logout" finished-at="2022-09-21T15:54:05 IST" duration-ms="10609" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:TestNg.TastModule@28f2a10f]" started-at="2022-09-21T15:54:05 IST" name="login" finished-at="2022-09-21T15:54:05 IST" duration-ms="366" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="DeleteTask()[pri:0, instance:TestNg.TastModule@28f2a10f]" started-at="2022-09-21T15:54:05 IST" name="DeleteTask" finished-at="2022-09-21T15:54:05 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[DeleteTask]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- DeleteTask -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:TestNg.TastModule@28f2a10f]" started-at="2022-09-21T15:54:05 IST" name="logout" finished-at="2022-09-21T15:54:11 IST" duration-ms="5588" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:TestNg.TastModule@28f2a10f]" started-at="2022-09-21T15:54:11 IST" name="login" finished-at="2022-09-21T15:54:11 IST" duration-ms="385" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="ModifyTask()[pri:0, instance:TestNg.TastModule@28f2a10f]" started-at="2022-09-21T15:54:11 IST" name="ModifyTask" finished-at="2022-09-21T15:54:11 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[ModifyTask]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ModifyTask -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:TestNg.TastModule@28f2a10f]" started-at="2022-09-21T15:54:11 IST" name="logout" finished-at="2022-09-21T15:54:16 IST" duration-ms="5019" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestNg.TastModule@28f2a10f]" started-at="2022-09-21T15:54:16 IST" name="closeBrowser" finished-at="2022-09-21T15:54:16 IST" duration-ms="137" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[closeBrowser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestNg.TastModule -->
+      <class name="TestNg.ProjectModule1">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:TestNg.ProjectModule1@4d465b11]" started-at="2022-09-21T15:52:47 IST" name="openBrowser" finished-at="2022-09-21T15:53:06 IST" duration-ms="19267" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[openBrowser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:TestNg.ProjectModule1@4d465b11]" started-at="2022-09-21T15:53:06 IST" name="login" finished-at="2022-09-21T15:53:07 IST" duration-ms="498" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="CreateProject()[pri:0, instance:TestNg.ProjectModule1@4d465b11]" started-at="2022-09-21T15:53:07 IST" name="CreateProject" finished-at="2022-09-21T15:53:07 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[CreateProjetct]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CreateProject -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:TestNg.ProjectModule1@4d465b11]" started-at="2022-09-21T15:53:07 IST" name="logout" finished-at="2022-09-21T15:53:16 IST" duration-ms="9046" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:TestNg.ProjectModule1@4d465b11]" started-at="2022-09-21T15:53:16 IST" name="login" finished-at="2022-09-21T15:53:16 IST" duration-ms="316" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="deleteCustomer()[pri:0, instance:TestNg.ProjectModule1@4d465b11]" started-at="2022-09-21T15:53:16 IST" name="deleteCustomer" finished-at="2022-09-21T15:53:16 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[deleteCustomer]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- deleteCustomer -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:TestNg.ProjectModule1@4d465b11]" started-at="2022-09-21T15:53:16 IST" name="logout" finished-at="2022-09-21T15:53:21 IST" duration-ms="5222" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:TestNg.ProjectModule1@4d465b11]" started-at="2022-09-21T15:53:21 IST" name="login" finished-at="2022-09-21T15:53:22 IST" duration-ms="277" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="modifyProject()[pri:0, instance:TestNg.ProjectModule1@4d465b11]" started-at="2022-09-21T15:53:22 IST" name="modifyProject" finished-at="2022-09-21T15:53:22 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[modifyProject]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- modifyProject -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:TestNg.ProjectModule1@4d465b11]" started-at="2022-09-21T15:53:22 IST" name="logout" finished-at="2022-09-21T15:53:28 IST" duration-ms="6607" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestNg.ProjectModule1@4d465b11]" started-at="2022-09-21T15:53:28 IST" name="closeBrowser" finished-at="2022-09-21T15:53:29 IST" duration-ms="161" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[closeBrowser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestNg.ProjectModule1 -->
+      <class name="TestNg.CreateCustomer1">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:TestNg.CreateCustomer1@4229bb3f]" started-at="2022-09-21T15:54:16 IST" name="openBrowser" finished-at="2022-09-21T15:54:38 IST" duration-ms="22124" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[openBrowser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:TestNg.CreateCustomer1@4229bb3f]" started-at="2022-09-21T15:54:38 IST" name="login" finished-at="2022-09-21T15:54:39 IST" duration-ms="395" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="ModifyCustomer()[pri:0, instance:TestNg.CreateCustomer1@4229bb3f]" started-at="2022-09-21T15:54:39 IST" name="ModifyCustomer" finished-at="2022-09-21T15:54:39 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[ModifyCustomer]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ModifyCustomer -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:TestNg.CreateCustomer1@4229bb3f]" started-at="2022-09-21T15:54:39 IST" name="logout" finished-at="2022-09-21T15:54:50 IST" duration-ms="11406" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:TestNg.CreateCustomer1@4229bb3f]" started-at="2022-09-21T15:54:50 IST" name="login" finished-at="2022-09-21T15:54:51 IST" duration-ms="338" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="createCustemer()[pri:0, instance:TestNg.CreateCustomer1@4229bb3f]" started-at="2022-09-21T15:54:51 IST" name="createCustemer" finished-at="2022-09-21T15:54:51 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[createCustemer]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createCustemer -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:TestNg.CreateCustomer1@4229bb3f]" started-at="2022-09-21T15:54:51 IST" name="logout" finished-at="2022-09-21T15:54:57 IST" duration-ms="6701" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:TestNg.CreateCustomer1@4229bb3f]" started-at="2022-09-21T15:54:57 IST" name="login" finished-at="2022-09-21T15:54:58 IST" duration-ms="551" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="deleteCustomer()[pri:0, instance:TestNg.CreateCustomer1@4229bb3f]" started-at="2022-09-21T15:54:58 IST" name="deleteCustomer" finished-at="2022-09-21T15:54:58 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[deleteCustomer]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- deleteCustomer -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:TestNg.CreateCustomer1@4229bb3f]" started-at="2022-09-21T15:54:58 IST" name="logout" finished-at="2022-09-21T15:55:03 IST" duration-ms="5353" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestNg.CreateCustomer1@4229bb3f]" started-at="2022-09-21T15:55:03 IST" name="closeBrowser" finished-at="2022-09-21T15:55:03 IST" duration-ms="157" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[closeBrowser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestNg.CreateCustomer1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
